@@ -1,18 +1,14 @@
 const help = (prefix) => {
 	return `
 
-⌜ _*ShanBot by shanduy*_ ⌟  
+⌜ _*ShanBot by El Kuko™*_ ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: shanduy™ 
-   ○ Cómo instalar el bot: https://youtu.be/HxZYNgW9aI8
-   ○ Mi Instagram: https://www.instagram.com/thepavos
+   ○ Editor: El Kuko™  
 
-◉ *COMUNICADO*
-Nuevo video de cómo instalar el bot :)
-https://youtu.be/HxZYNgW9aI8
 
+  
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
 
@@ -106,13 +102,10 @@ Para usar estas funciones el bot necesita admin
 Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
 
-No te olvides de seguirme en instagram flaco ;)
+_*Edited by El Kuko™*_
 
 
-_*by shanduy*_
-
-
-⌜ *ごきげんよう :)* ⌟ 
+⌜ *¿Sexo?* ⌟ 
 `
 }
 
