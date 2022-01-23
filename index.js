@@ -84,7 +84,7 @@ const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'END:VCARD'
 /******FIN DE ENTRADA VCARD******/
 
-prefix = '*'
+prefix = '/'
 blocked = []
 banChats = false
 
